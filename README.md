@@ -1,4 +1,4 @@
-Full Stack Web Developer in front end frameworks like Bootstrap & Tailwind, backend with PHP. Currently am the Chief Technology Officer at CivilHost.net, I also manage majority of the development as a PM & back-end developer there too! Feel free to email me @ cam@civilhost.net
+Backend Web Developer, proficient in PHP, dabbled in Go, Py & am actively practicing Javascript. CTO @ CivilHost. Current tech stack is probably Express, Tailwind and Vue. 
 
 https://civilhost.net
 
