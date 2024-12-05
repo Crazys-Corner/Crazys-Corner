@@ -1,6 +1,4 @@
-Backend Web Developer, proficient in PHP, dabbled in Go, Py & am actively practicing Javascript. CTO @ CivilHost. Current tech stack is probably Express, Tailwind and Vue. 
-
-https://civilhost.net
+Backend web developmer, Guitarist and cool person. I do stuff @ https://rubyhost.net
 
 <!--
 **Crazys-Corner/Crazys-Corner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
