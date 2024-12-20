@@ -1,4 +1,4 @@
-Backend web developmer, Guitarist and cool person. I do stuff @ https://rubyhost.net
+Backend web developmer, Guitarist and cool person. I do stuff @ https://saharacompute.com
 
 <!--
 **Crazys-Corner/Crazys-Corner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
