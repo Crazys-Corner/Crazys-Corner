@@ -1,5 +1,7 @@
 Backend web developmer, Guitarist and cool person. I do stuff @ https://saharacompute.com
 
+> cam.k@saharacompute.com
+> https://discord.gg/6macCfbDYp
 <!--
 **Crazys-Corner/Crazys-Corner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
